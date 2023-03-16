@@ -1,0 +1,171 @@
+Aced
+Blue team has scored an ace
+Purple team has scored an ace
+Red team has scored an ace
+Blue team double kill
+Enemy double kill
+Purple team double kill
+Red team double kill
+Double kill
+Blue team hexa kill
+Enemy hexa kill
+Red team hexa kill
+Hexa kill
+Hexa kill
+A champion has been slain
+An ally has been slain
+An enemy has been slain
+You have been slain
+Executed x12
+Terminated x
+Neutralized
+Executed x5
+You have slain an enemy
+Blue team penta kill
+Enemy penta kill
+Purple team penta kill
+Red team penta kill
+Penta kill
+Blue team quadra kill
+Enemy quadra kill
+Purple team quadra kill
+Red team quadra kill
+Quadra kill
+Blue team triple kill
+Enemy triple kill
+Purple team triple kill
+Red team triple kill
+Triple kill
+Blue team legendary kill
+Enemy legendary kill
+Purple team legendary kill
+Red team legendary kill
+Legendary kill
+Blue team's inhibitor has been destroyed
+Your team has destroyed an inhibitor
+Purple team's inhibitor has been destroyed
+Red team's inhibitor has been destroyed
+Your inhibitor has been destroyed
+Blue team's inhibitor has re-spawned
+The enemy's inhibitor has re-spawned
+Purple team's inhibitor has re-spawned
+Red team's inhibitor has re-spawned
+Blue team's inhibitor is re-spawning soon
+The enemy's inhibitor is re-spawning soon
+Purple team's inhibitor is re-spawning soon
+Red team's inhibitor is re-spawning soon
+Your inhibitor is re-spawning soon
+Your inhibitor has re-spawned
+Blue team's inhibitor is under attack
+Purple team's inhibitor is under attack
+Red team's inhibitor is under attack
+Defeat
+First blood
+Your inhibitor is under attack
+Blue team has slain a dragon
+Purple team has slain a dragon
+Red team has slain a dragon
+Shut down x7
+Killing spree
+Enemy killing spree
+Killing spree x2
+You are on a killing spree
+Killing spree
+Rampage
+Enemy rampage
+Rampage x2
+You are on a rampage
+Rampage
+Unstoppable
+An enemy is unstoppable
+Unstoppable x2
+You are unstoppable
+Unstoppable
+Dominating
+An enemy is dominating
+Dominating x2
+You are dominating
+Dominating
+Godlike
+An enemy is godlike
+Godlike x2
+You are godlike
+Godlike
+Legendary
+An enemy is legendary
+Legendary x2
+You are legendary
+Legendary
+Blue team has slain baron nashor
+Purple team has slain baron nashor
+Red team has slain baron nashor
+A summoner has quit
+An enemy has quit
+An ally has quit
+Blue team is nearly out of minions
+Red team is nearly out of minions
+Blue team has lost half its minions
+Red team has lost half its minions
+Minions have spawned
+Your nexus is under attack
+Blue team's nexus is under attack
+Purple team's nexus is under attack
+Red team's nexus is under attack
+One minute until minions spawn
+A summoner has disconnected
+An enemy has left the game
+An enemy has disconnected
+An ally has left the game
+An ally has disconnected
+A summoner has reconnected
+An enemy has reconnected
+An ally has reconnected
+Welcome to summoner's rift
+Welcome to the twisted tree-line
+Welcome to summoner's rift x2
+Welcome to the twisted treeline
+Welcome to summoner's rift
+The battle will begin in thirty seconds
+Thirty seconds until minions spawn
+Welcome
+Thirty seconds until minions spawn
+The altars will unlock in thirty seconds
+Thirty seconds until minions spawn
+Welcome to the howling abyss x
+Welcome to the murder bridge
+Thirty seconds until minions spawn x4
+The battle has begun
+Minions have spawned x2
+Welcome to the crystal scar
+The altars have unlocked
+Blue team has surrendered
+Purple team has surrendered
+Red team has surrendered
+Blue team's turret is nearly destroyed
+Red team's turret is nearly destroyed
+Your turret is under attack
+Blue team's turret has been destroyed
+Your team has destroyed a turret
+Purple team's turret has been destroyed
+Red team's turret has been destroyed
+Your turret has been destroyed
+Red team's turret is at half health
+Blue team's turret is under attack
+Purple team's turret is under attack
+Red team's turret is under attack
+Victory
+Blue team victory
+Purple team victory
+Red team victory
+Welcome
+Welcome to the league of legends
+Turret plating will soon fall x
+Turret plating will fall soon
+Turret plating has fallen
+The enemy has scored a point
+You have scored a point
+Your team has scored a point
+Welcome to the snowdown showdown
+The enemy has almost won
+You have almost won
+Your team has almost won
